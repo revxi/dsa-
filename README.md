@@ -8,10 +8,12 @@ LeetCode Ques and solutions
 | ------- |
 | [0001-two-sum](https://github.com/revxi/dsa-/tree/master/0001-two-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/revxi/dsa-/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/revxi/dsa-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/revxi/dsa-/tree/master/0001-two-sum) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/revxi/dsa-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## String
 |  |
 | ------- |
@@ -24,4 +26,12 @@ LeetCode Ques and solutions
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/revxi/dsa-/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/revxi/dsa-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/revxi/dsa-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
