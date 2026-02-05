@@ -9,6 +9,7 @@ LeetCode Ques and solutions
 | [0001-two-sum](https://github.com/revxi/dsa-/tree/master/0001-two-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/revxi/dsa-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/revxi/dsa-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/revxi/dsa-/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/revxi/dsa-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/revxi/dsa-/tree/master/3640-trionic-array-ii) |
 ## Hash Table
@@ -40,4 +41,8 @@ LeetCode Ques and solutions
 |  |
 | ------- |
 | [3640-trionic-array-ii](https://github.com/revxi/dsa-/tree/master/3640-trionic-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/revxi/dsa-/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
