@@ -20,6 +20,7 @@ LeetCode Ques and solutions
 ## String
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/revxi/dsa-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/revxi/dsa-/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Graph Theory
 |  |
@@ -40,9 +41,14 @@ LeetCode Ques and solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/revxi/dsa-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/revxi/dsa-/tree/master/3640-trionic-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/revxi/dsa-/tree/master/3379-transformed-array) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/revxi/dsa-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
