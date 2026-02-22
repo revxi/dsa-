@@ -75,4 +75,8 @@ LeetCode Ques and solutions
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/revxi/dsa-/tree/master/1382-balance-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/revxi/dsa-/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
